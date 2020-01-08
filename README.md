@@ -1,5 +1,11 @@
 # Voxel Space
 
+Some modification for future projects such as GCODE toolpath simulation for my karyacnc software.
+- Linear interpolation for depth and color
+- Start vertical line from Height 0
+
+![image](https://user-images.githubusercontent.com/11457832/71988498-99fe8700-3262-11ea-9217-82453e87dd6b.png)
+
 ![web demonstration](images/webdemo.gif)
 
 # **[Web Demo of the Voxel Space Engine][project demo]**
